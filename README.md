@@ -1,6 +1,6 @@
 # Sprunki But Instruments: The Ultimate Rhythm Adventure
 
-![Sprunki But Instruments Gameplay](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-but-instruments/main/assets/sprunki-but-instruments.png "Experience the musical magic of Sprunki But Instruments")
+![Sprunki But Instruments Gameplay](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-but-instruments/refs/heads/main/sprunki-but-instruments.png "Experience the musical magic of Sprunki But Instruments")
 
 🎵 Ready to play? First Edition: [Sprunki But Instruments](https://sprunksters.com/sprunki-but-instruments/ "Official Sprunki But Instruments Site")
 
